@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes the concept of finite(lumped) elements and equivalent
   circuits.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-551j-acoustics-of-speech-and-hearing-fall-2004/bc5298d1e12235b76f7563ec29d98e23_lec_8_9.pdf
+file: /media/courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/bc5298d1e12235b76f7563ec29d98e23_lec_8_9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec_8_9.pdf
 uid: bc5298d1-e122-35b7-6f75-63ec29d98e23
