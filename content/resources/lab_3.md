@@ -5,6 +5,7 @@ file: /courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/57d47ca02c0e49d0
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab_3.pdf
 uid: 57d47ca0-2c0e-49d0-99da-671e5c913f1b
 ---
 This laboratory session makes a recording in the eastham room using wavesurfer.
-

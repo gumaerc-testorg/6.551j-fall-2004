@@ -5,6 +5,7 @@ file: /courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/b7db0a40db5db024
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: prob_set_2.pdf
 uid: b7db0a40-db5d-b024-4fe7-e14da4a86162
 ---
 This resource includes five problems on Acoustics of Speech and Hearing.
-

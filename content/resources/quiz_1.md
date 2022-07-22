@@ -5,6 +5,7 @@ file: /courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/be6e5088952a4506
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz_1.pdf
 uid: be6e5088-952a-4506-decc-be3045909214
 ---
 This resource is a quiz on Acoustics of Speech and Hearing.
-

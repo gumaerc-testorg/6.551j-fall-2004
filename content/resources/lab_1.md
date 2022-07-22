@@ -6,6 +6,7 @@ file: /courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/2447f1c35edab06f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab_1.pdf
 uid: 2447f1c3-5eda-b06f-8b3b-6052e149b025
 ---
 This resource features Spherical Waves and Reverberation: Sound pressure measurements a reverberant room.
-
