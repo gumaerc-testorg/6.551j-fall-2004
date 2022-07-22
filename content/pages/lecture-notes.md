@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a557b856-c41b-7d32-2072-f4cdbd7044b1
 ---
@@ -22,7 +26,7 @@ TOPICS
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-Sound Measurement: Amplitude, Frequency and Phase of Simple and Complex Sounds (rms vs peak, FFT and Spectrum, Relationship between Time Waveform, FFT and Impulse Response), Lumped Elements and Waves ([PDF]({{< baseurl >}}/resources/lec_1_2004))
+Sound Measurement: Amplitude, Frequency and Phase of Simple and Complex Sounds (rms vs peak, FFT and Spectrum, Relationship between Time Waveform, FFT and Impulse Response), Lumped Elements and Waves ({{% resource_link c45734e2-684a-8592-c060-0120a0b6584c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Sound Measurement: Amplitude, Frequency and Phase of Simple and Complex Sounds (
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-Sound Propagation in Space 1: Plane Waves, Characteristic Impedance, Traveling Waves, Trading of Time and Space ([PDF]({{< baseurl >}}/resources/lec_2_2004))
+Sound Propagation in Space 1: Plane Waves, Characteristic Impedance, Traveling Waves, Trading of Time and Space ({{% resource_link 1149b68a-00a4-5f7c-67d4-a5c24ed08b51 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Sound Propagation in Space 1: Plane Waves, Characteristic Impedance, Traveling W
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Sound Propagation in Space 2: Spherical Waves, Multiple Sources ([PDF]({{< baseurl >}}/resources/lec_3_2004))
+Sound Propagation in Space 2: Spherical Waves, Multiple Sources ({{% resource_link 7056ab51-d5cb-7581-0bf9-76ee38ac8f30 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Sound Propagation in Space 2: Spherical Waves, Multiple Sources ([PDF]({{< baseu
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Diffraction of Sound, Localization Cues ([PDF - 1.2 MB]({{< baseurl >}}/resources/lec_4_2004))
+Diffraction of Sound, Localization Cues ({{% resource_link 5d477f73-80c5-b24a-6c6f-5e739036f9a2 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Psychoacoustics 2: Thresholds and Discrimination
 L7
 {{< tdclose >}}
 {{< tdopen >}}
-Circuits 1: Lumped Elements ([PDF]({{< baseurl >}}/resources/lec_7_2004))
+Circuits 1: Lumped Elements ({{% resource_link 00610bbb-3565-6bb9-9990-aa06a6b78205 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ Circuits 1: Lumped Elements ([PDF]({{< baseurl >}}/resources/lec_7_2004))
 L8
 {{< tdclose >}}
 {{< tdopen >}}
-Circuits 2: Combinations of Elements ([PDF]({{< baseurl >}}/resources/lec_8_9))
+Circuits 2: Combinations of Elements ({{% resource_link bc5298d1-e122-35b7-6f75-63ec29d98e23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +98,7 @@ Circuits 2: Combinations of Elements ([PDF]({{< baseurl >}}/resources/lec_8_9))
 L9
 {{< tdclose >}}
 {{< tdopen >}}
-Circuits 3: Equivalent Circuits ([PDF]({{< baseurl >}}/resources/lec_8_9))
+Circuits 3: Equivalent Circuits ({{% resource_link bc5298d1-e122-35b7-6f75-63ec29d98e23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +107,7 @@ Circuits 3: Equivalent Circuits ([PDF]({{< baseurl >}}/resources/lec_8_9))
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-Circuits 4: The Loudspeaker ([PDF]({{< baseurl >}}/resources/lec_10_2004))
+Circuits 4: The Loudspeaker ({{% resource_link e813ff3c-24d0-ef9e-4368-ecd0c95ca7db "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ Circuits 4: The Loudspeaker ([PDF]({{< baseurl >}}/resources/lec_10_2004))
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-Circuits 5: Microphones and Middle Ears ([PDF]({{< baseurl >}}/resources/lec_11_2004))
+Circuits 5: Microphones and Middle Ears ({{% resource_link 6f129e50-77cd-757d-6833-fadc2c3d8d65 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +125,7 @@ Circuits 5: Microphones and Middle Ears ([PDF]({{< baseurl >}}/resources/lec_11_
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-The Normal and Diseased Middle Ear ([PDF - 1.6 MB]({{< baseurl >}}/resources/lec_12_2004))
+The Normal and Diseased Middle Ear ({{% resource_link 5cfca1eb-3a60-e201-04b7-1642a519a8e7 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +152,7 @@ Psychoacoustics 4: Frequency Selectivity and Hearing Loss
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-Tubes 1: Dimensional Equations, Natural Frequencies ([PDF]({{< baseurl >}}/resources/lec_15_16))
+Tubes 1: Dimensional Equations, Natural Frequencies ({{% resource_link 151f51f2-eb85-d88e-6b68-ad173dc5e932 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +161,7 @@ Tubes 1: Dimensional Equations, Natural Frequencies ([PDF]({{< baseurl >}}/resou
 L16
 {{< tdclose >}}
 {{< tdopen >}}
-Tubes 2: Perturbation Theory ([PDF]({{< baseurl >}}/resources/lec_15_16))
+Tubes 2: Perturbation Theory ({{% resource_link 151f51f2-eb85-d88e-6b68-ad173dc5e932 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +170,7 @@ Tubes 2: Perturbation Theory ([PDF]({{< baseurl >}}/resources/lec_15_16))
 L17
 {{< tdclose >}}
 {{< tdopen >}}
-Tubes 3: Non-Uniformities and Losses ([PDF]({{< baseurl >}}/resources/lec_17_2004))
+Tubes 3: Non-Uniformities and Losses ({{% resource_link ff7b5512-78ef-f866-17ba-5ab4f5510b15 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +197,7 @@ Cochlear Mechanics 2: The Passive Cochlea
 L20
 {{< tdclose >}}
 {{< tdopen >}}
-Speech Production 1: Vowels ([PDF - 2.7 MB]({{< baseurl >}}/resources/lec_20_2004))
+Speech Production 1: Vowels ({{% resource_link fde642ba-872a-7bc1-ced8-ee61e46407d7 "PDF - 2.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +215,7 @@ Cochlear Mechanics 3: The Active Cochlea
 L22
 {{< tdclose >}}
 {{< tdopen >}}
-Speech Production 2: Fricative Sources and Consonants ([PDF - 1.3 MB]({{< baseurl >}}/resources/lec_22))
+Speech Production 2: Fricative Sources and Consonants ({{% resource_link 11028e4a-7a72-d9d3-81c0-9f910228c872 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +224,7 @@ Speech Production 2: Fricative Sources and Consonants ([PDF - 1.3 MB]({{< baseur
 L23
 {{< tdclose >}}
 {{< tdopen >}}
-Speech Sound Production 3: More Consonants ([PDF]({{< baseurl >}}/resources/lec_23))
+Speech Sound Production 3: More Consonants ({{% resource_link d6cb30a2-7984-d137-1dd0-f7af807b8048 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +233,7 @@ Speech Sound Production 3: More Consonants ([PDF]({{< baseurl >}}/resources/lec_
 L24
 {{< tdclose >}}
 {{< tdopen >}}
-Speech Perception ([PDF]({{< baseurl >}}/resources/lec_24))
+Speech Perception ({{% resource_link 05124089-8393-9955-09d9-62787b963469 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
