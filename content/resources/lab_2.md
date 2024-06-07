@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes measurement of masked thresholds.
 file: /courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/274879787d96e80fe37b5b0d28d6b872_lab_2.pdf
+file_size: 1704066
 file_type: application/pdf
 learning_resource_types:
 - Labs
