@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes two problem sets on Acoustics of Speech and Hearing.
 file: /courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/4c5866d1979ad72849dc4d39420ea7da_prob_set_8.pdf
+file_size: 288360
 file_type: application/pdf
 learning_resource_types:
 - Assignments
