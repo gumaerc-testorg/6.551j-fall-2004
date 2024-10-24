@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource has five problems on Acoustics of Speech and Hearing.
-file: /courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/416c77c7cf56265cdbe5fbed769f457d_prob_set_4.pdf
+file: /ol-ocw-studio-app/courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/416c77c7cf56265cdbe5fbed769f457d_prob_set_4.pdf
 file_size: 133880
 file_type: application/pdf
 learning_resource_types:
