@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource features Spherical Waves and Reverberation: Sound pressure
   measurements a reverberant room.'
-file: /ol-ocw-studio-app/courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/2447f1c35edab06f8b3b6052e149b025_lab_1.pdf
+file: /courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/2447f1c35edab06f8b3b6052e149b025_lab_1.pdf
 file_size: 50016
 file_type: application/pdf
 learning_resource_types:
