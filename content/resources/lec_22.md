@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource includes topics: Glides, Fricative Sources and Consonants'
-file: /courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/11028e4a7a72d9d381c09f910228c872_lec_22.pdf
+file: /ol-ocw-studio-app/courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/11028e4a7a72d9d381c09f910228c872_lec_22.pdf
 file_size: 1372326
 file_type: application/pdf
 learning_resource_types:
