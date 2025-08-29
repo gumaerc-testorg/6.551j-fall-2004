@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This laboratory session makes a recording in the eastham room using wavesurfer.
-file: /courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/57d47ca02c0e49d099da671e5c913f1b_lab_3.pdf
+file: /ol-ocw-studio-app/courses/6-551j-acoustics-of-speech-and-hearing-fall-2004/57d47ca02c0e49d099da671e5c913f1b_lab_3.pdf
 file_size: 111787
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
