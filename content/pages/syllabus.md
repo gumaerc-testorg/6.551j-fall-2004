@@ -96,7 +96,7 @@ Kinsler, Frey, Coppens, and Saunders. _Fundamentals of Acoustics__._ San Diego: 
 
 Beranek, Leo. _Acoustics__._ New York: American Institute of Physics, 1986. ISBN: 9780883184943.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262692502) Stevens, Ken. _Acoustic Phonetics_. Cambridge, MA: MIT Press, 2000. ISBN: 9780262692502
+{{% resource_link "fdf36265-c05f-47a7-94b0-deb9f5d235ff" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stevens, Ken. _Acoustic Phonetics_. Cambridge, MA: MIT Press, 2000. ISBN: 9780262692502
 
 Rosen, Stuart, and Peter Howell. _Signals and System for Speech and Hearing__._ San Diego: Academic Press, 1991. ISBN: 9780125972314.
 
